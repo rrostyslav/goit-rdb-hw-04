@@ -1,0 +1,1 @@
+Кількість рядків не змінилася, бо дані в базі повні - кожен order_detail має order, product, supplier, category, shipper і customer
